@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/gdamore/tcell/v2 v2.8.1
 	github.com/rivo/tview v0.42.0
-	golang.org/x/sys v0.29.0
+	golang.org/x/sys v0.46.0
 )
 
 require (
